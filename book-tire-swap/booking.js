@@ -757,8 +757,8 @@
 
   function fireConversion(r) {
     try {
-      if (r.testMode || !S.cfg.adsBookingLabel || !window.gtag || !window.TRACKING) return;
-      window.gtag('event', 'conversion', { send_to: window.TRACKING.ADS_ID + '/' + S.cfg.adsBookingLabel, value: r.price.subtotal, currency: 'CAD', transaction_id: r.bookingNo });
+      if (r.testMode || !(S.cfg.adsBookingLabel || 'QQrdCLaNmpUdELHHrshE') || !window.gtag || !window.TRACKING) return;
+      window.gtag('event', 'conversion', { send_to: window.TRACKING.ADS_ID + '/' + (S.cfg.adsBookingLabel || 'QQrdCLaNmpUdELHHrshE'), value: r.price.subtotal, currency: 'CAD', transaction_id: r.bookingNo });
       window.gtag('event', 'booking_confirmed', { value: r.price.subtotal, currency: 'CAD', booking_no: r.bookingNo });
     } catch (e) {}
   }
