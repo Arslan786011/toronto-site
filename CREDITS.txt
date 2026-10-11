@@ -1,0 +1,32 @@
+PHOTO CREDITS - Mobile Tire Repair Toronto, full website draft
+==================================================================
+
+Both photos come from Wikimedia Commons, which lists each file's license.
+The tire pattern photo was first published on Unsplash under CC0 and copied to Commons.
+Both licenses allow commercial use. Both photos were resized and compressed for the web.
+The map, van, skyline, logo and share image (images/og-image.jpg) were made for this site.
+Web versions are in images/ as .webp and .jpg.
+Font: Rubik (SIL Open Font License), self-hosted in assets/.
+
+images/tire-change-jack-roadside.jpg
+  Used in:      Home page ("Get help now" tile)
+  Title:        Changing car tire 20170513 02.jpg
+  Photographer: Santeri Viinamäki
+  Source:       https://commons.wikimedia.org/wiki/File:Changing_car_tire_20170513_02.jpg
+  License:      Creative Commons Attribution-ShareAlike 4.0 (commercial use allowed; attribution required; edited versions of THIS PHOTO must stay under CC BY-SA 4.0) - https://creativecommons.org/licenses/by-sa/4.0/
+  Changes:      Resized/compressed, and the product label on the floor jack was painted over so no brand name shows. This edited version is shared under CC BY-SA 4.0.
+
+images/tire-stack-texture.jpg
+  Used in:      Home page ("Book a swap" tile)
+  Title:        Black tire pattern (Unsplash).jpg
+  Photographer: Imthaz Ahamed
+  Source:       https://commons.wikimedia.org/wiki/File:Black_tire_pattern_(Unsplash).jpg
+  Original:     https://unsplash.com/photos/vVLrfAzmWYw
+  License:      CC0 1.0 Public Domain Dedication (free for commercial use, no attribution required) - https://creativecommons.org/publicdomain/zero/1.0/
+
+Required attribution line (already in the page footer):
+  - "Changing car tire" by Santeri Viinamäki, CC BY-SA 4.0, via Wikimedia Commons (edited: label removed).
+
+Note: this page is an unpublished sample. Before going live, re-check each source page and license.
+
+Logo (images/logo.png): made for this site from the site mark (orange ring on navy). No third-party rights.
